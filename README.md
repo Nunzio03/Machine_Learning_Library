@@ -1,0 +1,3 @@
+# Machine_Learning_Library
+a simple 3 layer neural network implementation for Java (Processing)
+i will add more information later ...
